@@ -2,7 +2,7 @@
 Me puede encontrar en: 
 - [Linkedin](https://www.linkedin.com/in/veronica-atariguana-2837a2223/)
 - [email](vatariguanag@gmail.com)
-- [celular]
+- [celular](+593 986 249 529)
 
 [![vatariguana´s github stats](https://github-readme-stats.vercel.app/api?username=vatariguana)](https://github.com/anuraghazra/github-readme-stats)
 
