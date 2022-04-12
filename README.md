@@ -1,9 +1,11 @@
 ### Hola, Soy Veronica 👋 
 Me puede encontrar en: 
-Linkedin:
-email:
-celular: 
+-[Linkedin]:{https://www.linkedin.com/in/veronica-atariguana-2837a2223/}
+-[email]:{vatariguanag@gmail.com}
+-[celular]: 
+
 [![vatariguana´s github stats](https://github-readme-stats.vercel.app/api?username=vatariguana)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **vatariguana/vatariguana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
