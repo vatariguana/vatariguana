@@ -1,4 +1,6 @@
 ### Hola, Soy Veronica 👋 
+
+https://www.esri.com/content/dam/esri-com/store/arcgis_developers/W13367_Dev_Store_Offer_645x304.jpg
 Me puede encontrar en: 
 - [Linkedin](https://www.linkedin.com/in/veronica-atariguana-2837a2223/)
 - [email](vatariguanag@gmail.com)
