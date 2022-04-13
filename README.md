@@ -1,6 +1,7 @@
-### Hola, Soy Veronica 👋 
 
-<img align="center" alt="GIF" src="https://www.esri.com/content/dam/esri-com/store/arcgis_developers/W13367_Dev_Store_Offer_645x304.jpg" width="500" height="320" />
+
+<img align="center" alt="GIF" src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2021/01/objects.jpg" width="1000" height="400" />
+### Hola, Soy Veronica 👋 
 
 
 Me puede encontrar en: 
