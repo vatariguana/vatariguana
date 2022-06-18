@@ -3,13 +3,12 @@
 <img align="center" alt="GIF" src="https://www.freecodecamp.org/espanol/news/content/images/size/w2000/2021/01/objects.jpg" width="1000" height="400" />
 
 <p>Hola! 👋   es un placer poder presentarme ante tan maravillosa comunidad.
-
-Todos tenemos una historia por contar, algo por lo que luchamos diariamente y  en algún momento de nuestras vidas paramos el reloj unos minutos para pensar si el rumbo de nuestras vidas esta en la dirección correcta, en este caso la pandemia paro el reloj, el ritmo de nuestras vidas, nos afecto, nos ayudo a pensar a muchos  y a cambiar radicalmente nuestras vidas.  
-Mi vida cambio, y mis estudios para ser docente de primaria quedaron pausados, pero mis ganas de aprender no.  
-Una de las cosas que me  gusta es enseñar y sobre todo aprender, ya que en el enseñar y aprender esta la magia, tengo la facilidad de adaptarme, ser creativa al momento de aplicar lo aprendido, curiosa y sobre todo enfocada a la resolución de problemas, ya que mi experiencia ha sido mas en el ámbito educativo y en especial con los niños, mediante las practicas realizadas me ayudaron a crecer como ser humano, como persona, y sobre todo a ver el mundo de diferente manera. 
+ 
+Aquí podra conocer los proyectos que he realizado hasta la actualidad.
+ 
 ¿A qué me dedico actualmente?
 
-En la actualidad, estoy cursando mis últimos días de un Bootcamp Full Stack Developer en Henry, enfocada al Front end Developer, estoy realizando un proyecto en el cual  me ayudará  a ganar experiencia, y sobre todo llevar lo aprendido al mundo de la practica.
+En la actualidad, estoy realizando proyectos individuales, poniendo en práctica lo aprendido, y sobre todo  enfocada al Front end Developer.
 
 Estoy muy contenta de todo lo que he aprendido  y sobre todo muy emocionada por todo lo me queda por aprender.
 
