@@ -20,7 +20,7 @@ celular: +593 986249529
 <h3 align="left">Me puede encontrar en:</h3>
 <p>
 - [Linkedin](https://www.linkedin.com/in/veronica-atariguana-2837a2223/)<br>
--[WebSite](https://portafolio-e7o0rj351-vatariguana.vercel.app/)<br>
+- [WebSite](https://portafolio-mkwhl8lkc-vatariguana.vercel.app/)<br>
 - [email](vatariguanag@gmail.com) <br>
 - [celular](+593 986 249 529)
  </p>
