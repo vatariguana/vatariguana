@@ -12,8 +12,6 @@ En la actualidad, estoy realizando proyectos individuales, poniendo en práctica
 
 Estoy muy contenta de todo lo que he aprendido  y sobre todo muy emocionada por todo lo me queda por aprender.
 
-Estoy en búsqueda de mi primer experiencia profesional como developer </p>
-
 email: vatariguanag@gmail.com <br>
 celular: +593 986249529
 ###
